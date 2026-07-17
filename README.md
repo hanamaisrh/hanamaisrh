@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hana Maisarah!
 
-🎓 **Computer Science Undergraduate @ Hanyang University ERICA**  
+🎓 **Computer Science Undergraduate @ Hanyang University ERICA | YTP-MARA Scholar**  
 📊 **Aspiring Data Analyst**  
 ✉️ **Email:** [hanamaisarah2004@gmail.com](mailto:hanamaisarah2004@gmail.com)  
 🔗 **LinkedIn:** https://www.linkedin.com/in/hana-maisarah-309a33294/
