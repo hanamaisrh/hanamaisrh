@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hana Maisarah!
+# 👋 Hi there, I'm Hana Maisarah!
 
 🎓 **Computer Science Undergraduate @ Hanyang University ERICA**  
 📊 **Aspiring Data Analyst**  
