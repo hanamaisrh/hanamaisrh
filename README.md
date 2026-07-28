@@ -25,14 +25,14 @@ Computer Science undergraduate student currently self-learning and upskilling to
 
 ### 📂 Featured Data Analytics Projects
 
-#### ☕ [NYC Coffee Shop Performance Dashboard (2023)](https://github.com/hanamaisrh/NYC-Coffee-Shop-Sales-Dashboard-Excel.git)
+#### ☕ [NYC Coffee Shop Performance Dashboard](https://github.com/hanamaisrh/NYC-Coffee-Shop-Sales-Dashboard-Excel.git)
 * **Tools & Tech:** Microsoft Excel, Pivot Tables, Dynamic Charts, VBA / Macro, UI/UX Design
 * **Key Achievements:** 
   * Processed and cleaned **149,000+ transactional records** across 3 NYC store locations.
   * Identified critical **morning peak demand (8:00 AM – 10:00 AM)** to optimize store staffing.
   * Built an interactive dashboard featuring dynamic Slicers, Timelines, and a custom **VBA filter reset button**.
 
-#### 🛒 [Brazilian E-Commerce Sales Analytics (SQL + Excel)](https://github.com/hanamaisrh/Brazilian-Ecommerce-Sales-Analytics-SQL.git)
+#### 🛒 [Brazilian E-Commerce Sales & Logistics Analytics](https://github.com/hanamaisrh/Brazilian-Ecommerce-Sales-Analytics-SQL.git)
 
 * **Tools & Tech:** Advanced SQL, DuckDB, CTEs, Window Functions (LAG), Microsoft Excel, Kaggle Notebooks
 * **Key Achievements:**
