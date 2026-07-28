@@ -32,4 +32,12 @@ Computer Science undergraduate student currently self-learning and upskilling to
   * Identified critical **morning peak demand (8:00 AM – 10:00 AM)** to optimize store staffing.
   * Built an interactive dashboard featuring dynamic Slicers, Timelines, and a custom **VBA filter reset button**.
 
+#### 🛒 [Brazilian E-Commerce Sales Analytics (SQL)](https://github.com/hanamaisrh/Brazilian-Ecommerce-Sales-Analytics-SQL.git)
+
+* **Tools & Tech:** Advanced SQL, DuckDB, CTEs, Window Functions (`LAG`), Kaggle Notebooks
+* **Key Achievements:**
+  * Processed and analyzed **100,000+ e-commerce transaction records** from the Olist Brazilian marketplace dataset.
+  * Computed **Month-over-Month (MoM) revenue growth** and payment method preferences using **CTEs and Window Functions**.
+  * Identified an average **12.5-day delivery fulfillment cycle** and a **6.8% late delivery rate** to drive supply chain recommendations.
+
 ---
