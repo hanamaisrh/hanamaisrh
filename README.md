@@ -34,8 +34,8 @@ Computer Science undergraduate student currently self-learning and upskilling to
 
 #### 🛒 [Brazilian E-Commerce Sales Analytics (SQL + Excel)](https://github.com/hanamaisrh/Brazilian-Ecommerce-Sales-Analytics-SQL.git)
 
-* **Tools & Tech: Advanced SQL, DuckDB, CTEs, Window Functions (LAG), Microsoft Excel, Kaggle Notebooks
-* **Key Achievements:
+* **Tools & Tech:** Advanced SQL, DuckDB, CTEs, Window Functions (LAG), Microsoft Excel, Kaggle Notebooks
+* **Key Achievements:**
   * Processed and analyzed 100,000+ e-commerce transaction records from the Olist Brazilian marketplace dataset.
   * Computed Month-over-Month (MoM) revenue growth and payment method preferences using CTEs and Window Functions.
   * Identified an average 12.5-day delivery fulfillment cycle and an 8.11% late delivery rate to drive supply chain recommendations.
