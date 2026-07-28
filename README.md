@@ -18,7 +18,7 @@ Computer Science undergraduate student currently self-learning and upskilling to
 | :--- | :--- |
 | **🗄️ Databases & Querying** | SQL, MySQL |
 | **💻 Programming & Data Processing** | Python, C/C++, Java |
-| **📈 Data Visualization & BI** | Advanced Excel, Tableau, Power BI |
+| **📈 Data Visualization & BI** | Advanced Excel, Power BI |
 | **⚙️ Developer Tools** | Git, GitHub, Linux |
 
 ---
