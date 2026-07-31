@@ -32,7 +32,7 @@ Computer Science undergraduate student currently self-learning and upskilling to
   * Identified critical **morning peak demand (8:00 AM – 10:00 AM)** to optimize store staffing.
   * Built an interactive dashboard featuring dynamic Slicers, Timelines, and a custom **VBA filter reset button**.
 
-#### 🛒 [Brazilian E-Commerce Sales & Logistics Analytics](https://github.com/hanamaisrh/Brazilian-Ecommerce-Sales-Analytics-SQL.git)
+#### 🛒 [End-to-End SQL Analytics Pipeline for Brazilian E-Commerce](https://github.com/hanamaisrh/Brazilian-Ecommerce-Sales-Analytics-SQL.git)
 
 * **Tools & Tech:** Advanced SQL, DuckDB, CTEs, Window Functions (LAG), Microsoft Excel, Kaggle Notebooks
 * **Key Achievements:**
